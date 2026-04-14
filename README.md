@@ -85,16 +85,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajaykumar2783&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumar2783&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumar2783&theme=tokyonight" />
-</p>
 
 ---
 
