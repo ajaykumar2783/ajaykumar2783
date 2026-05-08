@@ -1,4 +1,4 @@
-````md id="gk8vla"
+```md id="gk8vla"
 <!-- ==================== DARK NEON BANNER ==================== -->
 
 <p align="center">
@@ -16,8 +16,6 @@
 </p>
 
 ---
-
-<!-- ==================== VISITOR COUNTER ==================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajaykumar2783&label=Profile%20Views&color=00eaff&style=for-the-badge" alt="profile views"/>
@@ -128,6 +126,7 @@ Currently Working On:
 * ✅ Strong in DSA, DBMS, OOP & REST APIs
 
 ---
+```
 
 # 📈 GitHub Stats
 
