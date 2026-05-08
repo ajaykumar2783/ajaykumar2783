@@ -126,8 +126,6 @@
 ## 🏆 Achievements
 
 
-
-- ✅ SDE1 at **Byteshores**
 - ✅ Solved **500+ LeetCode Problems**
 - ✅ Built Full Stack + AI/ML + IoT Projects
 - ✅ Strong in DSA, DBMS, OOP & REST APIs
